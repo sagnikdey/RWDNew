@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RWDNew/static/css/main.cab0868e.chunk.css",
+    "main.js": "/RWDNew/static/js/main.28ffa903.chunk.js",
+    "main.js.map": "/RWDNew/static/js/main.28ffa903.chunk.js.map",
+    "runtime~main.js": "/RWDNew/static/js/runtime~main.0d54c109.js",
+    "runtime~main.js.map": "/RWDNew/static/js/runtime~main.0d54c109.js.map",
+    "static/css/2.ad709f94.chunk.css": "/RWDNew/static/css/2.ad709f94.chunk.css",
+    "static/js/2.69898e7c.chunk.js": "/RWDNew/static/js/2.69898e7c.chunk.js",
+    "static/js/2.69898e7c.chunk.js.map": "/RWDNew/static/js/2.69898e7c.chunk.js.map",
+    "index.html": "/RWDNew/index.html",
+    "precache-manifest.e6777b2844f22403367ba4b98eed378a.js": "/RWDNew/precache-manifest.e6777b2844f22403367ba4b98eed378a.js",
+    "service-worker.js": "/RWDNew/service-worker.js",
+    "static/css/2.ad709f94.chunk.css.map": "/RWDNew/static/css/2.ad709f94.chunk.css.map",
+    "static/css/main.cab0868e.chunk.css.map": "/RWDNew/static/css/main.cab0868e.chunk.css.map",
+    "static/media/index.scss": "/RWDNew/static/media/slick.f97e3bbf.svg"
+  }
+}
